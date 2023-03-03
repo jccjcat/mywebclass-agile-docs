@@ -1,7 +1,27 @@
-# Initiative: insert Title
+# Create Base Web Template
 ## Description
+
+## Goals
+
+## Scope
+ 
+## Outcomes
+
+## Deliverables
+* Deliverable
+## Milestones
+
+## Constraints
+
+## Assumptions
+
+## Risks
+
+## Dependencies
+
+## Team
+NJIT IS 601 Class
+
 ## Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
-* Epic 2
-## Test plan
-How will this be tested?
+
+## Test Plan
