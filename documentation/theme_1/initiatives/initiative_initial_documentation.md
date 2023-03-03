@@ -1,4 +1,4 @@
-# Develop Initial Project Plan and Documentation
+# Initiative: Develop Initial Project Plan and Documentation
 ## Description
 This initiative is to write up the initial documentation and plan for the development of the "My Web Class" website. 
 ## Goals

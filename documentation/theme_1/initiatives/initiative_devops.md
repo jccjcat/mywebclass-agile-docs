@@ -1,4 +1,4 @@
-# Establish DevOps Processes
+# Initiative: Establish DevOps Processes
 ## Description
 In order to optimize development and keep open communication amongst the team, CI/CD DevOps should be employed to automate various deployment and testing tasks. 
 ## Goals
