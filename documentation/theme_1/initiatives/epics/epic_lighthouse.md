@@ -19,7 +19,7 @@
 [List the potential risks and mitigation strategies]
 
 ## Estimated Effort
-[Estimate the effort required to complete the epic]
+24 Hours
 
 ## Business Value
 [Specify the business value that will be delivered by the epic]
