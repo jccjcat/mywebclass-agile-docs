@@ -23,5 +23,8 @@ In order to optimize development and keep open communication amongst the team, C
 NJIT IS 601 Class
 
 ## Epics
+* [Implement Code Quality Checks/Tests Before Builds](epics/epic_code_quality.md)
+* [Automate Deployments When Code Is Reviewed and Merged](epics/epic_deployments.md)
+* [Automate Integration Tests After New Builds are Deployed](epics/epic_automated_testing.md)
 
 ## Test Plan

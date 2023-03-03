@@ -20,9 +20,10 @@ N/A
 ## Dependencies
 N/A
 ## Team
-Jan Chris Tacbianan
+* Jan Chris Tacbianan
 ## Epics
-* [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
+* [Define Primary Work Items](epics/epic_work_items.md)
+* [Review and Revise Draft](epics/epic_review.md)
 
 ## Test plan
 As this component of the project has no code, the test plan involves manual review and peer checks of the deliverables/documentation. 
