@@ -1,4 +1,4 @@
-# Title: Epic
+# Epic: Title
 
 ## Description
 [A brief description of the epic]
