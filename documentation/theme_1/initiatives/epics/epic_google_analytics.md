@@ -8,7 +8,7 @@
 
 ## User Stories
 [List the user stories that will help achieve the goals of the epic]
-1. [User Story](stories/story.md)
+1. [As a website administrator, I want to implement Google Analytics so that I can analyze the behaviors and trends of my users.](stories/story_implement_ga.md)
 
 ## Dependencies
 [List any dependencies that may impact the epic]

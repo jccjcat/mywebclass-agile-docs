@@ -8,7 +8,7 @@
 
 ## User Stories
 [List the user stories that will help achieve the goals of the epic]
-1. [User Story](stories/story.md)
+1. [As a user, I want to be notified if cookies or tracking is enabled on a website, so I can understand if my personal information and actions are being recorded.](stories/story_gdpr.md)
 
 ## Dependencies
 [List any dependencies that may impact the epic]

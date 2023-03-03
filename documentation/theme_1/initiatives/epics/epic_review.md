@@ -8,7 +8,7 @@
 
 ## User Stories
 [List the user stories that will help achieve the goals of the epic]
-1. [User Story](stories/story.md)
+1. [As a project manager, I want to have the project draft reviewed so that potential errors and risks are caught earlier in the development process.](stories/story_review.md)
 
 ## Dependencies
 [List any dependencies that may impact the epic]

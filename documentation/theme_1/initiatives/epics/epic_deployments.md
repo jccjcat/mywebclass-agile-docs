@@ -8,7 +8,8 @@
 
 ## User Stories
 [List the user stories that will help achieve the goals of the epic]
-1. [User Story](stories/story.md)
+1. [As a development team member, I want code deployment scripts so that deployments can be done quickly and are repeatable](stories/story_deployment_script.md)
+2. [As a development team member, I want automatic code deployment when items are merged so that we support CI/CD practices](stories/story_continuous_deployment.md)
 
 ## Dependencies
 [List any dependencies that may impact the epic]
