@@ -10,7 +10,8 @@ The outcome of this initiative is to have documentation that can be followed to 
 ## Deliverables
 * Initial Project Plan 
 ## Milestones
-N/A
+* First Draft [2 Days/16 Hours]
+* Final Initial Proposal [1 Day/8 Hours]
 ## Constraints
 N/A
 ## Assumptions
