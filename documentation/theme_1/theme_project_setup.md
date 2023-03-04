@@ -8,7 +8,7 @@ us up for long-term success.
 
 * [Develop Initial Project Plan and Documentation](initiatives/initiative_initial_documentation.md)
 * [Establish DevOps Processes](initiatives/initiative_devops.md)
-* [Create Base Web Template](initiatives/initiative_webpage_template.md)
+* [Create Base Web Template](initiatives/initiative_basic_webpage_template.md)
 
 
 ## Test plan
