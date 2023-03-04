@@ -1,7 +1,7 @@
 # Epic: Implement Google Analytics
 
 ## Description
-[A brief description of the epic]
+Google Analytics should be implemented in order to see user trends and behaviors on the website. Implementing Google Analytics has some technical and legal requirements before it can be implemented. 
 
 ## Goals
 [List the high-level goals or objectives of the epic]
